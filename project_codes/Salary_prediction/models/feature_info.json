@@ -1,0 +1,14 @@
+{
+  "feature_columns": [
+    "education_level_enc",
+    "job_role_enc",
+    "location_enc",
+    "years_experience",
+    "skill_score"
+  ],
+  "categorical_columns": [
+    "education_level",
+    "job_role",
+    "location"
+  ]
+}

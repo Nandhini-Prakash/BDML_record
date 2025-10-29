@@ -1,0 +1,1001 @@
+years_experience,skill_score,education_level,job_role,location,salary_in_usd
+9.4,8,Master,ML Engineer,Tier3,89146.17
+23.8,3,Bachelor,Backend Developer,Tier3,75243.11
+18.3,8,Bachelor,Data Scientist,Tier1,114645.24
+15.0,5,Bachelor,Software Engineer,Tier2,74036.86
+3.9,1,Master,ML Engineer,Tier2,60205.34
+3.9,7,Master,ML Engineer,Tier1,94036.35
+1.5,5,Bachelor,Backend Developer,Tier3,43507.65
+21.7,6,Bachelor,Data Scientist,Tier1,124550.4
+15.0,6,Bachelor,Data Scientist,Tier1,94204.17
+17.7,8,Master,Backend Developer,Tier2,110582.94
+0.5,9,Master,Data Scientist,Tier2,59412.67
+24.2,2,Bachelor,DevOps,Tier2,100660.79
+20.8,9,Bachelor,Software Engineer,Tier2,90392.81
+5.3,10,Bachelor,ML Engineer,Tier2,64057.0
+4.5,9,PhD,Software Engineer,Tier2,89559.11
+4.6,10,Bachelor,ML Engineer,Tier1,76674.18
+7.6,10,Master,DevOps,Tier1,93550.43
+13.1,7,Master,Data Scientist,Tier1,110017.34
+10.8,1,Bachelor,Backend Developer,Tier1,63006.23
+7.3,7,Bachelor,DevOps,Tier2,59530.94
+15.3,10,Bachelor,Software Engineer,Tier1,88553.02
+3.5,5,Master,Backend Developer,Tier1,68662.07
+7.3,6,Master,Data Scientist,Tier1,84329.76
+9.2,10,Master,DevOps,Tier3,82802.2
+11.4,7,Bachelor,Backend Developer,Tier3,59952.99
+19.6,5,Bachelor,DevOps,Tier2,96447.61
+5.0,7,PhD,DevOps,Tier3,85443.19
+12.9,9,Master,Data Scientist,Tier2,96386.16
+14.8,3,Bachelor,ML Engineer,Tier2,85679.49
+1.2,8,PhD,Backend Developer,Tier1,91830.99
+15.2,2,Master,Data Scientist,Tier2,101015.09
+4.3,7,Bachelor,DevOps,Tier2,57820.21
+1.6,2,Master,Data Scientist,Tier2,48167.82
+23.7,4,Master,ML Engineer,Tier2,130319.15
+24.1,7,Master,Backend Developer,Tier2,120010.63
+20.2,3,Bachelor,ML Engineer,Tier2,97370.2
+7.6,2,Bachelor,Software Engineer,Tier3,46340.88
+2.4,10,PhD,Backend Developer,Tier1,104095.7
+17.1,7,Bachelor,ML Engineer,Tier2,103179.11
+11.0,1,Bachelor,DevOps,Tier1,68904.55
+3.1,8,Bachelor,Backend Developer,Tier2,48652.77
+12.4,3,Bachelor,Backend Developer,Tier2,61244.9
+0.9,2,Master,Data Scientist,Tier1,63545.27
+22.7,3,PhD,DevOps,Tier2,143317.22
+6.5,5,Bachelor,Software Engineer,Tier1,67436.3
+16.6,8,Bachelor,ML Engineer,Tier2,93259.56
+7.8,10,Bachelor,Data Scientist,Tier1,88006.88
+13.0,7,Master,ML Engineer,Tier2,97068.09
+13.7,7,Master,Software Engineer,Tier1,105440.99
+4.6,7,Bachelor,Software Engineer,Tier2,57874.35
+24.2,8,Master,Backend Developer,Tier1,154597.32
+19.4,1,Master,Software Engineer,Tier3,91656.95
+23.5,4,Master,ML Engineer,Tier3,124479.0
+22.4,6,PhD,DevOps,Tier3,129404.0
+14.9,9,Bachelor,DevOps,Tier2,84133.04
+23.0,2,Master,Backend Developer,Tier2,108568.73
+2.2,1,Bachelor,ML Engineer,Tier1,58202.35
+4.9,10,Master,ML Engineer,Tier1,91272.01
+1.1,2,Master,Software Engineer,Tier1,52762.11
+8.1,7,Master,ML Engineer,Tier2,79860.55
+9.7,3,Master,Data Scientist,Tier3,72741.84
+6.8,10,Bachelor,Software Engineer,Tier1,73228.8
+20.7,2,Bachelor,Data Scientist,Tier3,78993.73
+8.9,7,PhD,Backend Developer,Tier2,87939.85
+7.0,2,PhD,DevOps,Tier2,78981.35
+13.6,3,Bachelor,Backend Developer,Tier1,86025.17
+3.5,7,Bachelor,DevOps,Tier1,61376.12
+20.1,4,Bachelor,Backend Developer,Tier2,87092.12
+1.9,1,Master,ML Engineer,Tier2,54974.64
+24.7,5,Master,Data Scientist,Tier1,159960.99
+19.3,9,Bachelor,DevOps,Tier2,87851.8
+5.0,8,Bachelor,Software Engineer,Tier3,56966.94
+0.1,9,Master,Data Scientist,Tier3,58637.27
+20.4,10,Master,Software Engineer,Tier3,113162.8
+17.7,9,Bachelor,Data Scientist,Tier1,122112.99
+18.2,7,Bachelor,Data Scientist,Tier1,103842.22
+19.3,4,Bachelor,Backend Developer,Tier2,74775.73
+1.9,5,Bachelor,DevOps,Tier1,53619.36
+9.0,1,Bachelor,DevOps,Tier1,67939.98
+2.9,1,Master,Data Scientist,Tier1,59802.79
+21.6,3,Master,ML Engineer,Tier1,130122.99
+15.6,8,Master,ML Engineer,Tier1,130338.35
+8.3,2,Master,Software Engineer,Tier1,70153.23
+1.6,4,Bachelor,Software Engineer,Tier1,47106.28
+7.8,2,Bachelor,Backend Developer,Tier1,62116.82
+8.1,5,Bachelor,Data Scientist,Tier2,59299.7
+18.2,9,Bachelor,Software Engineer,Tier2,86075.16
+15.9,1,Master,Software Engineer,Tier2,83121.61
+22.2,5,PhD,Data Scientist,Tier1,173963.25
+11.8,9,Bachelor,Backend Developer,Tier1,93670.62
+3.0,1,Bachelor,Software Engineer,Tier2,41498.02
+17.8,9,Master,Backend Developer,Tier2,103743.36
+19.0,8,Bachelor,DevOps,Tier2,90749.91
+14.0,4,Bachelor,Backend Developer,Tier1,88485.25
+19.3,10,Master,ML Engineer,Tier3,124483.38
+12.3,5,Master,ML Engineer,Tier1,119278.17
+13.1,5,Bachelor,Backend Developer,Tier1,85684.28
+10.7,6,Bachelor,ML Engineer,Tier2,70864.45
+0.6,7,Master,DevOps,Tier2,55216.99
+2.7,8,Bachelor,Data Scientist,Tier1,61628.25
+0.8,8,Bachelor,ML Engineer,Tier1,70798.39
+15.9,2,Master,ML Engineer,Tier2,101529.83
+7.9,9,Bachelor,Backend Developer,Tier1,80888.42
+12.7,7,Master,DevOps,Tier1,103876.25
+22.7,4,Bachelor,Data Scientist,Tier1,124448.95
+6.2,4,PhD,Backend Developer,Tier3,69109.44
+10.3,8,Bachelor,Backend Developer,Tier1,73268.75
+18.9,4,Bachelor,DevOps,Tier3,75574.68
+5.7,6,Bachelor,Data Scientist,Tier2,61847.06
+1.9,5,Bachelor,DevOps,Tier3,43180.31
+7.2,3,Master,Data Scientist,Tier3,69222.26
+4.0,10,PhD,DevOps,Tier1,99953.41
+23.2,2,Bachelor,Backend Developer,Tier1,104331.13
+20.2,9,Bachelor,Backend Developer,Tier1,109353.13
+15.8,10,Master,Software Engineer,Tier1,114271.47
+21.8,9,Master,ML Engineer,Tier2,140738.66
+20.1,1,Bachelor,DevOps,Tier1,102819.78
+4.7,10,Bachelor,Software Engineer,Tier1,74013.56
+22.3,3,Bachelor,ML Engineer,Tier1,127151.79
+13.5,8,Master,DevOps,Tier3,90813.78
+20.2,6,Bachelor,Data Scientist,Tier1,107452.54
+22.4,5,Master,ML Engineer,Tier1,153716.31
+8.0,5,Bachelor,Backend Developer,Tier1,66875.15
+2.8,6,Master,Software Engineer,Tier3,50760.24
+5.7,7,Bachelor,ML Engineer,Tier2,60046.74
+10.7,1,Bachelor,ML Engineer,Tier1,82945.32
+20.5,9,Bachelor,Backend Developer,Tier1,114485.69
+21.5,3,Master,DevOps,Tier1,120204.21
+0.2,4,Bachelor,Data Scientist,Tier1,54648.14
+12.8,10,Bachelor,Backend Developer,Tier3,76499.91
+10.4,1,Bachelor,Data Scientist,Tier2,58321.98
+5.6,10,Bachelor,DevOps,Tier1,72610.95
+3.0,3,Master,ML Engineer,Tier3,58687.42
+8.4,2,Master,Data Scientist,Tier1,81602.81
+23.6,2,Master,Software Engineer,Tier2,108503.49
+8.1,1,Bachelor,Software Engineer,Tier3,43704.31
+13.0,8,Master,Backend Developer,Tier1,105065.93
+17.6,3,Bachelor,DevOps,Tier2,84353.04
+9.1,3,Bachelor,Backend Developer,Tier1,71065.61
+24.3,6,Bachelor,Backend Developer,Tier1,121056.08
+24.1,8,Bachelor,Backend Developer,Tier1,126112.01
+6.3,9,Master,Software Engineer,Tier1,92297.59
+12.4,9,Master,Software Engineer,Tier2,93249.93
+7.5,4,Master,Backend Developer,Tier3,55468.28
+7.1,5,Bachelor,Software Engineer,Tier2,57267.71
+0.9,2,Bachelor,DevOps,Tier3,33161.49
+15.2,9,Bachelor,Backend Developer,Tier3,78453.24
+12.6,8,Bachelor,Software Engineer,Tier1,84227.7
+1.3,3,Bachelor,Data Scientist,Tier1,53715.41
+7.0,9,Bachelor,Backend Developer,Tier1,71452.71
+22.7,3,Bachelor,Backend Developer,Tier2,92855.79
+6.0,9,Bachelor,DevOps,Tier3,62779.69
+3.6,2,Master,ML Engineer,Tier1,70656.84
+12.2,10,PhD,ML Engineer,Tier2,141244.9
+24.6,9,PhD,DevOps,Tier2,153121.07
+6.1,8,Master,DevOps,Tier2,75641.95
+16.8,9,Bachelor,DevOps,Tier1,112792.82
+19.0,5,Master,ML Engineer,Tier1,130730.23
+5.9,2,Master,DevOps,Tier1,80046.14
+18.2,8,Bachelor,Software Engineer,Tier1,94212.39
+9.2,6,Bachelor,Backend Developer,Tier1,67430.74
+15.8,8,Master,Backend Developer,Tier2,105004.51
+15.8,5,Bachelor,Data Scientist,Tier1,90288.38
+13.4,10,Bachelor,Data Scientist,Tier3,86749.88
+2.3,2,Bachelor,Backend Developer,Tier2,45093.95
+20.9,6,Bachelor,Software Engineer,Tier2,82427.68
+8.0,5,Bachelor,ML Engineer,Tier1,80583.72
+4.7,5,Bachelor,ML Engineer,Tier2,55589.86
+1.0,1,Bachelor,Software Engineer,Tier3,33018.64
+14.8,2,Bachelor,ML Engineer,Tier1,85378.02
+16.9,8,Master,DevOps,Tier1,117304.87
+0.4,3,Bachelor,Backend Developer,Tier2,37768.18
+12.8,10,Bachelor,Backend Developer,Tier1,90653.81
+5.7,3,Bachelor,Software Engineer,Tier1,65368.44
+16.1,8,PhD,ML Engineer,Tier1,176638.87
+4.4,8,Bachelor,Data Scientist,Tier1,76093.28
+17.3,2,Bachelor,Data Scientist,Tier2,82401.97
+9.7,8,Master,ML Engineer,Tier1,117641.86
+23.4,1,Master,Data Scientist,Tier3,100034.61
+3.4,6,Bachelor,Software Engineer,Tier2,52484.87
+8.5,8,Master,Software Engineer,Tier2,85571.18
+2.8,3,Bachelor,ML Engineer,Tier2,48845.85
+23.1,8,Bachelor,Data Scientist,Tier3,100396.64
+21.9,1,Bachelor,Software Engineer,Tier1,104631.0
+6.4,9,Bachelor,Software Engineer,Tier3,60981.99
+16.5,9,Master,DevOps,Tier2,110650.44
+20.4,5,Bachelor,DevOps,Tier2,86522.55
+13.9,10,Bachelor,Software Engineer,Tier2,77297.73
+13.2,4,Master,ML Engineer,Tier1,101215.79
+6.0,6,Master,Backend Developer,Tier1,83711.22
+2.3,7,Bachelor,Backend Developer,Tier2,45073.06
+22.4,5,Master,Software Engineer,Tier1,137751.4
+22.5,10,Bachelor,Software Engineer,Tier2,91449.48
+15.8,9,Master,Software Engineer,Tier1,109467.67
+8.5,3,Master,ML Engineer,Tier1,91957.25
+8.7,7,PhD,DevOps,Tier1,124190.41
+18.1,10,Bachelor,Software Engineer,Tier1,97938.61
+22.4,10,Bachelor,Software Engineer,Tier2,97596.04
+22.2,5,Bachelor,Data Scientist,Tier1,116715.32
+19.5,7,Bachelor,ML Engineer,Tier3,86164.14
+16.1,2,Bachelor,Software Engineer,Tier2,66205.57
+2.1,4,PhD,Data Scientist,Tier1,92030.85
+4.0,2,Bachelor,Backend Developer,Tier2,45122.24
+22.5,7,Bachelor,Software Engineer,Tier3,77195.92
+15.2,2,Master,Software Engineer,Tier2,88759.18
+0.2,1,Bachelor,Data Scientist,Tier1,50003.47
+2.5,9,Master,ML Engineer,Tier3,68347.93
+16.6,1,Bachelor,Software Engineer,Tier2,71222.79
+0.1,8,Bachelor,Backend Developer,Tier1,59011.98
+4.0,2,Bachelor,Software Engineer,Tier1,58123.83
+13.7,8,Bachelor,Backend Developer,Tier2,80226.27
+17.3,3,PhD,DevOps,Tier1,139938.76
+16.3,6,Bachelor,DevOps,Tier3,76566.64
+5.6,3,Bachelor,Backend Developer,Tier1,61797.51
+17.8,7,Bachelor,ML Engineer,Tier3,82163.87
+5.9,10,Bachelor,Software Engineer,Tier2,61820.22
+8.1,9,Master,Software Engineer,Tier1,99275.38
+18.7,2,Bachelor,DevOps,Tier1,99069.7
+16.2,5,Master,Backend Developer,Tier2,90629.4
+21.2,6,PhD,Software Engineer,Tier2,138698.24
+16.4,4,Bachelor,Software Engineer,Tier2,69901.41
+14.2,4,PhD,ML Engineer,Tier1,141571.92
+2.3,4,Bachelor,Data Scientist,Tier1,61461.69
+9.2,2,Bachelor,DevOps,Tier1,66239.12
+6.6,4,Bachelor,DevOps,Tier2,53256.89
+6.1,1,Master,Data Scientist,Tier1,81750.51
+24.3,6,PhD,Software Engineer,Tier1,160908.94
+9.8,1,Bachelor,ML Engineer,Tier2,61550.58
+22.3,10,Master,ML Engineer,Tier3,135261.41
+15.8,6,Bachelor,DevOps,Tier1,100892.73
+19.9,1,Bachelor,ML Engineer,Tier1,110848.64
+12.6,6,Bachelor,Data Scientist,Tier2,83165.21
+14.4,10,PhD,Software Engineer,Tier2,112413.76
+12.3,8,Master,Data Scientist,Tier1,118993.17
+4.9,2,Bachelor,Backend Developer,Tier3,42831.57
+18.1,2,Bachelor,DevOps,Tier3,77443.22
+7.0,4,Bachelor,ML Engineer,Tier1,74871.72
+0.6,3,Bachelor,Backend Developer,Tier1,47526.08
+16.1,4,Bachelor,ML Engineer,Tier2,85888.95
+4.4,7,Master,Software Engineer,Tier2,64791.73
+23.5,1,Bachelor,Software Engineer,Tier1,107519.27
+23.8,6,Bachelor,Software Engineer,Tier2,97709.45
+22.9,3,Bachelor,ML Engineer,Tier2,104286.86
+9.3,10,Master,Backend Developer,Tier1,98229.45
+0.4,7,Master,Software Engineer,Tier2,54855.19
+23.2,10,Bachelor,Backend Developer,Tier3,95891.72
+10.7,2,Master,ML Engineer,Tier1,103955.55
+24.2,2,Bachelor,Backend Developer,Tier1,109980.03
+24.1,4,Bachelor,ML Engineer,Tier1,136555.38
+21.3,1,Bachelor,ML Engineer,Tier3,90674.28
+7.4,3,Bachelor,DevOps,Tier3,52405.48
+9.6,9,Bachelor,ML Engineer,Tier1,96949.9
+21.3,7,PhD,ML Engineer,Tier2,171126.5
+7.9,7,Master,Data Scientist,Tier2,83695.94
+4.2,4,Master,Software Engineer,Tier2,62415.26
+13.9,2,Bachelor,DevOps,Tier1,86125.95
+23.4,4,Bachelor,DevOps,Tier1,114195.99
+17.4,6,Master,DevOps,Tier1,114642.85
+14.3,3,Bachelor,Data Scientist,Tier2,75220.97
+2.4,1,Bachelor,ML Engineer,Tier1,59345.24
+15.4,8,Bachelor,Software Engineer,Tier3,75097.06
+24.8,5,Master,Backend Developer,Tier1,137625.96
+3.5,5,Bachelor,ML Engineer,Tier1,72288.2
+13.0,4,Bachelor,Data Scientist,Tier2,76318.02
+21.9,6,Master,ML Engineer,Tier2,126346.06
+18.5,3,Bachelor,ML Engineer,Tier1,112436.18
+17.4,9,Bachelor,Data Scientist,Tier1,116731.39
+17.6,5,Bachelor,DevOps,Tier3,71650.47
+9.0,3,Bachelor,DevOps,Tier1,71251.28
+7.3,1,Master,Software Engineer,Tier1,71520.68
+20.2,10,Bachelor,Software Engineer,Tier3,83320.07
+20.3,6,Bachelor,DevOps,Tier1,109029.8
+21.7,2,Master,Backend Developer,Tier1,117112.76
+22.8,3,Master,ML Engineer,Tier1,135058.63
+12.8,1,Master,Backend Developer,Tier1,87514.79
+12.5,9,Bachelor,ML Engineer,Tier1,93647.09
+20.0,8,Bachelor,DevOps,Tier1,113626.54
+16.2,2,PhD,Software Engineer,Tier1,136550.31
+17.5,8,Master,Software Engineer,Tier1,125532.3
+19.9,9,Bachelor,Backend Developer,Tier2,89071.58
+22.3,1,Bachelor,Software Engineer,Tier1,90759.79
+8.4,5,Bachelor,DevOps,Tier1,69704.19
+9.4,8,PhD,Backend Developer,Tier3,92029.74
+2.3,2,Bachelor,ML Engineer,Tier2,44777.29
+14.5,4,Bachelor,Software Engineer,Tier1,85243.15
+0.9,7,Bachelor,Data Scientist,Tier3,44032.26
+11.6,3,Master,Software Engineer,Tier1,96293.47
+13.6,5,Master,ML Engineer,Tier1,113687.02
+7.2,8,Bachelor,Backend Developer,Tier2,58882.79
+14.8,10,Master,ML Engineer,Tier2,120316.54
+0.8,3,PhD,Data Scientist,Tier1,75000.56
+0.9,4,Bachelor,DevOps,Tier1,47587.79
+20.6,9,Bachelor,Software Engineer,Tier2,94482.01
+9.0,7,Bachelor,Backend Developer,Tier1,77290.59
+3.2,1,Master,DevOps,Tier3,49804.52
+13.1,4,Bachelor,ML Engineer,Tier1,88157.65
+19.2,4,Master,Backend Developer,Tier3,88275.98
+5.4,9,Master,DevOps,Tier2,71984.01
+15.6,6,Bachelor,Backend Developer,Tier3,64316.59
+2.1,9,PhD,Data Scientist,Tier2,93096.61
+1.3,6,Bachelor,Data Scientist,Tier2,52640.08
+13.3,6,Bachelor,Software Engineer,Tier1,81893.75
+13.5,5,Master,Software Engineer,Tier1,102619.78
+15.9,5,Master,Data Scientist,Tier1,111813.73
+18.2,2,Bachelor,Backend Developer,Tier3,74816.48
+24.4,8,Master,Data Scientist,Tier3,110624.84
+12.9,8,PhD,Software Engineer,Tier1,119090.46
+8.1,1,Bachelor,Data Scientist,Tier1,68238.4
+19.9,8,PhD,Data Scientist,Tier1,178378.14
+6.8,5,Bachelor,Backend Developer,Tier2,57097.73
+11.0,2,Bachelor,DevOps,Tier1,68386.0
+2.0,2,Bachelor,Software Engineer,Tier2,39186.32
+0.6,6,Master,Backend Developer,Tier3,48232.27
+24.1,9,Master,Data Scientist,Tier1,148437.54
+20.9,1,Bachelor,Data Scientist,Tier1,112630.65
+17.4,6,Bachelor,DevOps,Tier1,92418.33
+10.2,9,Master,Software Engineer,Tier1,99432.49
+4.3,8,Bachelor,Software Engineer,Tier1,68298.27
+3.9,6,Master,ML Engineer,Tier1,79958.56
+6.3,3,Master,Software Engineer,Tier3,57924.42
+13.7,8,Bachelor,DevOps,Tier1,100971.6
+17.9,9,PhD,ML Engineer,Tier1,166816.76
+16.5,1,Bachelor,ML Engineer,Tier3,80364.47
+7.0,9,PhD,Data Scientist,Tier2,105480.4
+23.9,6,Master,Data Scientist,Tier1,142967.97
+18.4,6,Master,Software Engineer,Tier2,98672.39
+13.9,4,Bachelor,ML Engineer,Tier1,91798.33
+15.3,1,Master,Data Scientist,Tier2,94228.82
+10.5,10,Bachelor,DevOps,Tier2,80747.4
+6.2,8,Bachelor,Data Scientist,Tier2,70207.05
+8.9,2,Bachelor,Data Scientist,Tier1,79701.63
+18.9,1,Bachelor,ML Engineer,Tier3,84337.78
+0.4,2,Bachelor,ML Engineer,Tier1,51555.61
+2.9,1,Master,Backend Developer,Tier1,56316.91
+1.2,1,Master,DevOps,Tier1,56023.46
+1.0,9,Bachelor,ML Engineer,Tier1,61778.96
+21.4,1,Master,Software Engineer,Tier1,121583.44
+17.6,4,Bachelor,DevOps,Tier3,73951.93
+11.9,10,Master,DevOps,Tier3,78366.35
+2.4,6,Master,ML Engineer,Tier1,71701.8
+12.3,7,Bachelor,DevOps,Tier1,86861.52
+11.8,2,Master,ML Engineer,Tier1,103234.53
+4.3,6,Bachelor,Data Scientist,Tier1,67580.69
+10.8,7,Bachelor,Backend Developer,Tier1,82654.67
+10.0,10,Master,Data Scientist,Tier3,85461.85
+15.4,10,Bachelor,ML Engineer,Tier1,116985.89
+15.9,2,Bachelor,ML Engineer,Tier1,91434.01
+1.1,2,Bachelor,Data Scientist,Tier1,46438.41
+9.4,10,Master,Software Engineer,Tier3,78036.6
+15.6,7,Bachelor,Software Engineer,Tier2,78628.49
+12.6,1,Bachelor,Software Engineer,Tier3,51334.68
+21.4,8,Master,ML Engineer,Tier2,125649.37
+16.5,3,Master,DevOps,Tier1,101855.26
+4.1,6,Bachelor,ML Engineer,Tier1,71006.53
+1.8,9,Bachelor,DevOps,Tier2,53266.55
+16.1,6,Bachelor,Data Scientist,Tier1,104120.13
+0.7,9,Bachelor,Backend Developer,Tier2,52408.74
+14.6,7,Bachelor,DevOps,Tier1,91328.58
+23.5,9,Master,Software Engineer,Tier1,154227.92
+14.4,2,Master,ML Engineer,Tier2,94480.99
+9.7,8,Master,Data Scientist,Tier2,91261.99
+16.1,8,Bachelor,Software Engineer,Tier2,84569.3
+11.5,2,Master,Data Scientist,Tier1,99300.45
+13.6,4,Bachelor,Backend Developer,Tier2,69672.54
+23.5,7,PhD,ML Engineer,Tier1,193423.19
+9.7,4,Master,ML Engineer,Tier1,90517.89
+24.0,4,Bachelor,Backend Developer,Tier1,98762.35
+22.6,6,Master,ML Engineer,Tier1,146763.67
+4.9,10,Bachelor,DevOps,Tier1,72313.5
+1.7,6,Master,Data Scientist,Tier1,71124.18
+2.5,10,Bachelor,Software Engineer,Tier1,60298.79
+0.5,3,Bachelor,Backend Developer,Tier1,48348.29
+2.4,9,Master,DevOps,Tier1,84763.68
+17.1,10,Bachelor,Software Engineer,Tier1,111994.01
+1.8,2,Master,Software Engineer,Tier1,57008.78
+8.0,6,Bachelor,Backend Developer,Tier2,62930.47
+21.1,7,Master,DevOps,Tier1,145095.38
+0.6,9,Master,Software Engineer,Tier1,68592.46
+20.4,3,Bachelor,Software Engineer,Tier1,94158.68
+7.0,10,Bachelor,DevOps,Tier2,74097.12
+3.0,3,Bachelor,ML Engineer,Tier3,46721.03
+17.4,7,Bachelor,Software Engineer,Tier2,82784.51
+15.7,4,Bachelor,Data Scientist,Tier2,76308.71
+21.9,8,Master,DevOps,Tier1,129526.39
+18.4,7,PhD,Software Engineer,Tier2,136271.8
+20.1,5,Master,Backend Developer,Tier2,104905.19
+7.1,7,Master,Data Scientist,Tier1,90595.4
+4.4,3,Master,Software Engineer,Tier1,63383.48
+18.8,2,Master,Data Scientist,Tier1,122494.29
+20.2,6,Bachelor,Data Scientist,Tier3,88805.9
+24.8,2,PhD,ML Engineer,Tier2,147548.72
+10.3,3,Master,Data Scientist,Tier2,85628.06
+9.3,6,Bachelor,ML Engineer,Tier1,78952.03
+19.4,5,Bachelor,DevOps,Tier1,101151.93
+8.5,8,Bachelor,ML Engineer,Tier1,91387.16
+23.3,9,Bachelor,Backend Developer,Tier1,111838.54
+21.5,3,Master,Software Engineer,Tier3,99094.76
+10.7,10,Bachelor,DevOps,Tier2,80371.19
+18.8,3,Bachelor,DevOps,Tier1,104105.42
+18.9,3,PhD,Backend Developer,Tier3,100188.42
+2.6,6,Bachelor,ML Engineer,Tier1,61328.54
+22.6,1,Bachelor,Software Engineer,Tier3,73424.51
+12.6,7,Bachelor,ML Engineer,Tier1,98576.61
+20.7,1,Master,Data Scientist,Tier1,131301.58
+8.0,5,PhD,ML Engineer,Tier1,128048.72
+22.4,10,Bachelor,DevOps,Tier1,127586.36
+9.7,8,Master,Software Engineer,Tier1,103994.54
+0.3,4,Bachelor,ML Engineer,Tier2,48509.72
+22.6,5,PhD,Software Engineer,Tier3,119243.51
+2.3,4,Master,Software Engineer,Tier2,51074.05
+8.0,4,Master,Data Scientist,Tier1,92733.33
+23.8,8,Bachelor,Data Scientist,Tier2,101756.45
+23.8,2,PhD,DevOps,Tier1,151585.77
+14.3,1,Master,Backend Developer,Tier1,94360.22
+15.8,3,Bachelor,Software Engineer,Tier2,77387.31
+11.2,9,Master,Backend Developer,Tier2,80052.97
+7.3,4,Bachelor,DevOps,Tier1,73101.13
+8.2,10,Master,Software Engineer,Tier1,101752.72
+16.8,5,Bachelor,Software Engineer,Tier3,70847.94
+18.8,2,Master,Backend Developer,Tier1,100384.79
+19.8,4,Bachelor,ML Engineer,Tier1,105666.3
+19.7,2,Bachelor,Data Scientist,Tier2,91238.27
+2.3,2,Bachelor,ML Engineer,Tier1,58592.89
+12.4,4,Bachelor,Backend Developer,Tier1,85337.2
+1.4,6,Bachelor,Data Scientist,Tier1,60762.5
+13.7,7,Bachelor,ML Engineer,Tier2,79436.15
+11.0,10,Bachelor,Data Scientist,Tier2,74931.62
+22.2,3,Bachelor,Software Engineer,Tier2,90628.42
+8.8,3,Bachelor,ML Engineer,Tier3,56125.79
+2.9,10,Master,Data Scientist,Tier2,71229.89
+3.6,6,Bachelor,Data Scientist,Tier1,65897.03
+19.0,3,PhD,Data Scientist,Tier1,140731.5
+15.5,2,Master,ML Engineer,Tier2,92271.45
+2.5,8,Master,DevOps,Tier2,63941.95
+2.1,5,Bachelor,ML Engineer,Tier2,50425.64
+17.5,1,Master,Backend Developer,Tier2,81396.12
+1.8,3,Bachelor,ML Engineer,Tier1,59556.99
+20.5,10,Bachelor,Data Scientist,Tier1,130682.18
+17.7,8,Bachelor,Software Engineer,Tier1,95739.51
+2.0,4,Master,ML Engineer,Tier1,75698.47
+2.1,7,Bachelor,ML Engineer,Tier1,65296.89
+24.7,10,Bachelor,Data Scientist,Tier2,114376.74
+9.4,2,PhD,Software Engineer,Tier2,91555.48
+9.3,7,Master,Software Engineer,Tier1,96804.95
+20.3,5,Bachelor,Backend Developer,Tier1,107725.7
+23.7,5,Bachelor,ML Engineer,Tier1,117706.78
+24.7,6,Master,Software Engineer,Tier1,126036.52
+18.8,9,Bachelor,Software Engineer,Tier2,96229.13
+9.4,6,Bachelor,DevOps,Tier2,65261.39
+2.1,8,Bachelor,DevOps,Tier2,51097.21
+19.4,7,PhD,Software Engineer,Tier2,136725.08
+14.0,9,Master,Backend Developer,Tier2,100730.18
+10.6,4,Master,Software Engineer,Tier1,95701.13
+22.7,2,Master,Data Scientist,Tier1,129583.46
+2.8,7,Bachelor,ML Engineer,Tier1,73774.36
+12.3,6,Bachelor,Backend Developer,Tier3,57760.68
+0.3,1,Bachelor,Data Scientist,Tier1,41768.62
+11.7,9,Bachelor,Backend Developer,Tier1,89118.49
+1.4,9,Bachelor,Data Scientist,Tier3,46479.8
+3.0,2,Master,ML Engineer,Tier3,51932.09
+2.9,3,Master,ML Engineer,Tier2,63289.08
+16.2,5,Master,DevOps,Tier1,110769.74
+18.7,5,Bachelor,Data Scientist,Tier1,100243.58
+14.6,1,Master,DevOps,Tier1,95078.69
+24.1,8,Master,Data Scientist,Tier1,153469.87
+9.4,8,Bachelor,DevOps,Tier1,82583.44
+7.1,4,Master,ML Engineer,Tier1,95156.13
+21.7,7,Bachelor,Backend Developer,Tier3,88097.57
+5.6,10,Bachelor,DevOps,Tier1,76050.47
+24.1,3,Bachelor,Data Scientist,Tier2,106984.98
+0.3,6,Bachelor,Data Scientist,Tier2,44219.16
+24.2,10,Bachelor,ML Engineer,Tier1,132800.85
+1.1,10,Master,Data Scientist,Tier2,73029.93
+22.3,9,PhD,Software Engineer,Tier1,167603.0
+13.2,1,Master,Backend Developer,Tier1,99016.45
+24.8,5,Master,DevOps,Tier2,119905.82
+1.8,4,Bachelor,Backend Developer,Tier1,54485.77
+13.8,8,Master,ML Engineer,Tier3,94171.36
+24.2,1,Bachelor,DevOps,Tier1,107426.53
+13.1,9,Bachelor,DevOps,Tier2,78617.84
+15.7,6,Bachelor,Software Engineer,Tier1,95529.96
+17.4,4,Bachelor,ML Engineer,Tier1,106851.92
+11.4,9,Bachelor,Data Scientist,Tier1,103223.83
+15.7,5,Bachelor,Software Engineer,Tier2,72014.0
+14.6,5,Bachelor,Software Engineer,Tier3,61371.51
+22.5,5,PhD,Backend Developer,Tier3,121108.22
+1.1,1,Bachelor,Backend Developer,Tier1,44832.64
+7.0,1,Bachelor,Backend Developer,Tier2,53661.6
+23.8,8,Bachelor,Software Engineer,Tier2,95528.23
+22.3,8,Master,Data Scientist,Tier2,129610.73
+11.4,6,Bachelor,DevOps,Tier1,81829.64
+15.5,4,Bachelor,Backend Developer,Tier2,75427.82
+6.9,2,Bachelor,Data Scientist,Tier3,55441.98
+4.7,2,Bachelor,ML Engineer,Tier1,59982.26
+11.6,9,Bachelor,Backend Developer,Tier3,65422.58
+8.8,5,Bachelor,DevOps,Tier2,69918.83
+14.6,4,Bachelor,ML Engineer,Tier1,104658.95
+1.9,10,Bachelor,ML Engineer,Tier1,73899.17
+24.4,1,Bachelor,DevOps,Tier1,109974.01
+24.7,7,Master,Backend Developer,Tier2,113555.79
+17.5,3,Bachelor,Software Engineer,Tier3,69739.21
+13.4,6,Bachelor,DevOps,Tier1,96071.52
+7.7,5,Bachelor,DevOps,Tier3,57602.1
+20.3,5,PhD,DevOps,Tier3,117842.27
+17.1,5,Bachelor,ML Engineer,Tier1,100791.39
+4.1,1,Bachelor,Data Scientist,Tier3,41619.33
+22.8,1,Master,Software Engineer,Tier3,86409.22
+20.6,3,Bachelor,Backend Developer,Tier2,76535.8
+23.7,10,Bachelor,Backend Developer,Tier2,99996.2
+18.1,4,Bachelor,Data Scientist,Tier3,73277.65
+15.3,5,Master,DevOps,Tier2,88193.19
+10.5,2,Bachelor,Software Engineer,Tier1,70864.44
+23.3,8,Master,Backend Developer,Tier3,99188.04
+21.7,2,PhD,Backend Developer,Tier2,115064.54
+1.1,9,Bachelor,DevOps,Tier2,50855.73
+0.7,2,Bachelor,Data Scientist,Tier1,46440.39
+9.4,9,Bachelor,Software Engineer,Tier2,68739.77
+20.3,7,Bachelor,Data Scientist,Tier1,106750.06
+24.7,8,Bachelor,Data Scientist,Tier3,105602.61
+3.8,2,PhD,Software Engineer,Tier1,85602.3
+14.9,7,Master,Software Engineer,Tier1,115007.41
+9.5,6,Master,Backend Developer,Tier1,91074.04
+24.2,4,Bachelor,Backend Developer,Tier1,117634.49
+21.1,7,Master,Software Engineer,Tier2,113419.61
+21.0,4,PhD,ML Engineer,Tier3,121378.93
+11.7,2,Master,Backend Developer,Tier3,66246.4
+10.4,10,Bachelor,ML Engineer,Tier1,105275.7
+6.8,7,Master,Software Engineer,Tier1,81794.22
+1.4,8,Bachelor,Backend Developer,Tier3,40635.53
+21.6,2,Bachelor,Data Scientist,Tier3,87946.96
+20.3,5,Bachelor,Software Engineer,Tier1,107663.19
+25.0,1,Master,DevOps,Tier1,124435.06
+24.9,7,Master,ML Engineer,Tier1,163208.02
+13.9,8,Bachelor,Software Engineer,Tier3,65499.7
+19.2,6,Bachelor,Software Engineer,Tier2,88873.12
+23.6,5,Bachelor,Backend Developer,Tier1,105079.08
+21.2,6,Bachelor,Backend Developer,Tier1,101930.38
+6.2,2,Bachelor,Backend Developer,Tier3,48532.34
+11.3,1,Bachelor,DevOps,Tier1,73496.8
+3.2,7,Master,Backend Developer,Tier1,75647.98
+23.9,7,Bachelor,Software Engineer,Tier2,95233.5
+15.2,10,Bachelor,Backend Developer,Tier1,94060.13
+5.7,10,Bachelor,Data Scientist,Tier1,82676.01
+16.8,2,PhD,Backend Developer,Tier3,93004.05
+15.5,2,Master,DevOps,Tier3,78591.74
+9.0,1,Master,Data Scientist,Tier3,61537.7
+2.8,10,Bachelor,Software Engineer,Tier3,52581.45
+16.8,8,Bachelor,Software Engineer,Tier2,90548.08
+13.0,8,Bachelor,ML Engineer,Tier3,85949.79
+19.3,1,Master,Data Scientist,Tier1,119095.34
+13.0,8,PhD,ML Engineer,Tier2,122643.8
+21.3,9,Master,Data Scientist,Tier3,112352.49
+13.8,4,Master,Data Scientist,Tier1,116717.63
+14.0,1,Master,DevOps,Tier1,91730.4
+21.9,1,Bachelor,ML Engineer,Tier1,122752.3
+10.1,3,PhD,DevOps,Tier1,108456.1
+3.4,5,Bachelor,Data Scientist,Tier1,69504.04
+0.7,5,Bachelor,Software Engineer,Tier3,41534.38
+18.9,9,Bachelor,Data Scientist,Tier3,94949.09
+15.5,10,Bachelor,DevOps,Tier1,99961.89
+17.6,2,Bachelor,ML Engineer,Tier1,91942.08
+5.3,2,Bachelor,ML Engineer,Tier1,63645.44
+3.4,6,Bachelor,DevOps,Tier3,46183.8
+0.4,9,Bachelor,ML Engineer,Tier1,60101.0
+8.8,1,Bachelor,Backend Developer,Tier1,63898.49
+14.7,9,Bachelor,Software Engineer,Tier1,92932.06
+9.8,9,Bachelor,Software Engineer,Tier1,84237.53
+10.9,9,Bachelor,Software Engineer,Tier1,86947.5
+22.6,5,Master,ML Engineer,Tier3,105469.47
+8.7,9,Master,ML Engineer,Tier2,101264.93
+12.8,4,Master,Data Scientist,Tier2,83842.83
+19.6,2,Master,Data Scientist,Tier1,122539.14
+9.9,6,Bachelor,Software Engineer,Tier2,64526.29
+15.6,4,Master,Backend Developer,Tier2,94257.98
+21.6,6,Bachelor,Data Scientist,Tier1,108124.21
+23.7,3,Bachelor,Data Scientist,Tier2,97684.74
+3.7,6,Master,ML Engineer,Tier1,85380.95
+23.2,2,Bachelor,Backend Developer,Tier3,74876.67
+12.3,2,Master,Software Engineer,Tier1,92146.75
+6.5,9,Master,Data Scientist,Tier3,80899.38
+11.5,7,Master,Backend Developer,Tier1,108916.83
+24.5,3,PhD,Backend Developer,Tier2,124891.69
+12.3,1,Bachelor,Software Engineer,Tier2,58446.63
+8.2,8,Bachelor,Backend Developer,Tier2,61802.83
+15.8,6,Bachelor,Backend Developer,Tier1,89928.36
+6.0,7,Bachelor,Backend Developer,Tier1,64731.81
+1.9,9,Master,Data Scientist,Tier2,64606.73
+3.2,5,Master,Software Engineer,Tier1,74709.93
+3.2,1,Master,Backend Developer,Tier1,64072.93
+3.8,10,Bachelor,Backend Developer,Tier2,52617.8
+3.5,7,Bachelor,Data Scientist,Tier2,55622.16
+16.0,5,Bachelor,Software Engineer,Tier1,88636.03
+4.5,3,Bachelor,ML Engineer,Tier1,61637.99
+8.6,9,Master,Data Scientist,Tier1,106845.91
+22.4,1,Bachelor,Software Engineer,Tier2,86286.43
+11.8,1,Bachelor,Backend Developer,Tier2,64858.81
+16.7,1,Bachelor,Software Engineer,Tier3,68026.48
+4.3,3,Master,Software Engineer,Tier3,52160.38
+4.8,6,Master,Software Engineer,Tier1,78144.87
+1.0,10,Bachelor,ML Engineer,Tier1,67088.86
+4.2,3,Bachelor,Software Engineer,Tier1,56807.95
+7.0,8,Bachelor,ML Engineer,Tier1,83539.62
+4.4,10,Bachelor,Backend Developer,Tier3,49854.79
+2.2,2,Master,ML Engineer,Tier2,53849.88
+3.0,9,Master,Backend Developer,Tier1,74002.91
+11.5,3,Bachelor,Backend Developer,Tier1,81093.43
+5.2,5,Bachelor,ML Engineer,Tier2,57326.14
+9.1,10,PhD,Data Scientist,Tier2,109872.92
+12.6,8,Bachelor,DevOps,Tier1,89331.22
+17.3,2,Master,Software Engineer,Tier3,83776.56
+1.0,6,Bachelor,DevOps,Tier2,43739.34
+20.0,5,Bachelor,Software Engineer,Tier1,109897.0
+15.7,10,Bachelor,Software Engineer,Tier3,81985.93
+2.0,9,Bachelor,Backend Developer,Tier1,62703.62
+21.8,5,PhD,Software Engineer,Tier3,125884.34
+23.0,2,Bachelor,Software Engineer,Tier3,71363.24
+1.5,5,Bachelor,ML Engineer,Tier2,49582.25
+6.9,4,Bachelor,DevOps,Tier2,60920.22
+20.2,7,Bachelor,ML Engineer,Tier1,110725.19
+18.7,6,Bachelor,Software Engineer,Tier3,73073.76
+4.6,2,Bachelor,Backend Developer,Tier2,47211.9
+5.2,5,Master,ML Engineer,Tier2,69169.85
+9.3,7,Bachelor,ML Engineer,Tier3,73864.06
+12.1,7,Bachelor,Data Scientist,Tier3,65918.49
+15.5,5,PhD,Software Engineer,Tier3,108861.45
+9.2,9,Bachelor,Backend Developer,Tier1,80597.93
+11.6,4,PhD,ML Engineer,Tier3,107232.76
+18.7,3,Bachelor,ML Engineer,Tier2,87510.28
+0.9,4,Master,Backend Developer,Tier3,45491.45
+6.3,5,Master,Software Engineer,Tier2,70851.65
+17.8,6,Master,Data Scientist,Tier1,127165.59
+22.4,3,PhD,ML Engineer,Tier1,172841.04
+12.8,2,Bachelor,Data Scientist,Tier2,71418.73
+13.3,4,PhD,DevOps,Tier2,113169.29
+2.7,5,Bachelor,Software Engineer,Tier1,55140.51
+11.2,4,Bachelor,DevOps,Tier2,73372.63
+13.3,3,Bachelor,DevOps,Tier1,79981.13
+6.1,8,Bachelor,DevOps,Tier3,56630.73
+6.7,10,Bachelor,Software Engineer,Tier1,79821.19
+9.4,4,Bachelor,Software Engineer,Tier1,73934.6
+0.5,2,Bachelor,Backend Developer,Tier1,47414.59
+8.1,2,Master,Data Scientist,Tier1,92816.04
+5.3,1,Master,Data Scientist,Tier1,71186.8
+8.2,4,Bachelor,Backend Developer,Tier1,62822.32
+3.0,10,Bachelor,Backend Developer,Tier1,60073.31
+22.3,9,Bachelor,DevOps,Tier3,96702.45
+14.8,7,Bachelor,Backend Developer,Tier3,75343.67
+17.0,10,Bachelor,ML Engineer,Tier1,111507.95
+19.7,7,Bachelor,Data Scientist,Tier3,81886.2
+12.5,7,Bachelor,Backend Developer,Tier1,77694.35
+2.2,8,PhD,ML Engineer,Tier2,93726.41
+13.4,1,Bachelor,ML Engineer,Tier2,70967.4
+14.7,10,Bachelor,ML Engineer,Tier1,109041.19
+18.6,10,Bachelor,ML Engineer,Tier1,122956.59
+10.8,8,Bachelor,DevOps,Tier1,92707.86
+3.2,4,Bachelor,ML Engineer,Tier1,65300.2
+7.1,4,Master,DevOps,Tier2,71178.37
+9.1,4,Bachelor,DevOps,Tier1,69184.05
+16.1,6,Bachelor,ML Engineer,Tier1,106724.8
+14.3,7,PhD,Data Scientist,Tier1,154604.23
+8.9,6,Master,ML Engineer,Tier1,111544.18
+24.7,1,Master,ML Engineer,Tier2,115472.37
+15.1,8,Bachelor,ML Engineer,Tier1,97351.12
+5.9,10,Master,Data Scientist,Tier3,68607.56
+2.5,7,Bachelor,Software Engineer,Tier1,57681.33
+3.8,6,Bachelor,Software Engineer,Tier1,64463.72
+6.1,6,Bachelor,DevOps,Tier2,53306.87
+4.0,5,Bachelor,DevOps,Tier1,61570.03
+4.7,6,Bachelor,Data Scientist,Tier2,56563.81
+7.1,9,Bachelor,Backend Developer,Tier2,57789.2
+4.3,10,PhD,Software Engineer,Tier1,103479.74
+22.4,9,PhD,DevOps,Tier1,171926.25
+2.0,10,Master,Software Engineer,Tier1,74175.62
+13.1,8,Bachelor,Data Scientist,Tier1,101536.57
+10.3,10,Master,Data Scientist,Tier1,113054.8
+24.6,9,Bachelor,Backend Developer,Tier1,111463.25
+2.8,10,Master,Backend Developer,Tier1,86220.44
+9.9,8,Bachelor,Data Scientist,Tier2,76810.63
+24.2,8,Master,DevOps,Tier2,131956.76
+21.6,1,Bachelor,Software Engineer,Tier2,75254.79
+20.4,10,Master,ML Engineer,Tier1,139981.37
+6.4,5,PhD,Backend Developer,Tier1,88658.01
+4.3,4,Bachelor,ML Engineer,Tier3,48097.65
+16.7,2,Bachelor,DevOps,Tier2,75379.16
+23.2,8,PhD,Backend Developer,Tier3,144158.11
+13.9,3,Bachelor,ML Engineer,Tier1,92338.62
+14.3,4,Master,DevOps,Tier2,85779.67
+7.0,7,Bachelor,Software Engineer,Tier2,60692.6
+19.2,10,Bachelor,DevOps,Tier1,105005.45
+4.7,9,Bachelor,Backend Developer,Tier1,70276.14
+8.1,2,Bachelor,Data Scientist,Tier2,60346.78
+10.6,3,Master,Software Engineer,Tier1,91966.37
+12.7,4,Bachelor,ML Engineer,Tier1,100727.9
+6.1,10,Bachelor,Backend Developer,Tier2,59784.99
+2.9,1,Bachelor,Data Scientist,Tier3,41109.24
+15.3,7,Bachelor,DevOps,Tier1,104987.7
+7.2,2,Master,Data Scientist,Tier1,85977.78
+14.5,5,PhD,Backend Developer,Tier1,129348.38
+3.9,1,Bachelor,Backend Developer,Tier2,47080.68
+12.0,3,Master,Data Scientist,Tier1,91496.55
+13.3,2,Master,DevOps,Tier3,81569.25
+1.3,1,Bachelor,Data Scientist,Tier1,44379.28
+8.4,7,PhD,Backend Developer,Tier1,112792.12
+3.4,5,Bachelor,Backend Developer,Tier2,52535.24
+1.6,1,Bachelor,ML Engineer,Tier3,38011.28
+24.7,6,Master,ML Engineer,Tier1,157709.38
+8.1,5,Bachelor,Software Engineer,Tier1,67357.28
+20.2,3,Master,Backend Developer,Tier3,98007.74
+6.4,7,Master,ML Engineer,Tier1,101809.61
+17.0,10,Bachelor,Data Scientist,Tier3,90532.45
+19.0,9,Master,DevOps,Tier1,135836.59
+14.9,9,Bachelor,Data Scientist,Tier2,94379.85
+11.8,9,Bachelor,DevOps,Tier2,75830.63
+10.3,2,Master,ML Engineer,Tier1,95149.73
+8.7,3,PhD,Software Engineer,Tier3,81431.13
+23.2,7,Bachelor,Data Scientist,Tier1,120731.72
+20.8,5,Bachelor,Data Scientist,Tier1,103247.31
+24.1,2,Master,Data Scientist,Tier2,107865.01
+3.1,3,Master,DevOps,Tier1,61538.11
+18.3,10,Master,ML Engineer,Tier2,133027.2
+23.5,6,Bachelor,Data Scientist,Tier1,122296.88
+4.5,7,Bachelor,Data Scientist,Tier1,73798.78
+1.7,9,Bachelor,Software Engineer,Tier1,59664.14
+18.5,1,Master,Software Engineer,Tier1,101703.17
+14.4,7,Bachelor,ML Engineer,Tier1,100437.21
+21.0,8,Bachelor,ML Engineer,Tier2,112511.96
+3.5,3,PhD,Backend Developer,Tier3,63808.94
+19.9,4,Bachelor,Software Engineer,Tier3,82434.62
+5.0,10,PhD,Backend Developer,Tier1,111104.67
+4.1,6,Master,DevOps,Tier1,78398.8
+4.1,10,Master,Backend Developer,Tier1,84821.08
+20.4,7,Bachelor,Data Scientist,Tier1,126544.93
+16.6,4,Bachelor,Backend Developer,Tier2,80507.57
+13.1,8,Master,ML Engineer,Tier1,110704.01
+9.0,5,Master,DevOps,Tier1,91529.72
+21.9,1,Master,Data Scientist,Tier3,103140.02
+9.8,4,Bachelor,Backend Developer,Tier1,75875.19
+20.4,3,Master,DevOps,Tier1,116265.11
+11.0,9,Master,DevOps,Tier1,115167.82
+9.4,8,Master,Data Scientist,Tier1,113844.68
+11.6,1,Master,Backend Developer,Tier3,62183.6
+7.5,6,Master,DevOps,Tier1,95220.62
+18.7,9,Master,DevOps,Tier1,121832.99
+12.6,7,Bachelor,Software Engineer,Tier1,77820.58
+5.8,4,Bachelor,DevOps,Tier1,60155.84
+22.5,1,Bachelor,Software Engineer,Tier1,90653.47
+9.6,2,Bachelor,Backend Developer,Tier3,55801.93
+13.6,5,Bachelor,Backend Developer,Tier3,58994.11
+22.7,5,Bachelor,Backend Developer,Tier2,87025.61
+15.6,8,Bachelor,ML Engineer,Tier1,100761.49
+2.9,6,Bachelor,Backend Developer,Tier3,42966.98
+23.5,8,Master,DevOps,Tier2,113252.77
+15.7,2,PhD,Data Scientist,Tier1,142779.53
+8.4,3,Bachelor,Software Engineer,Tier2,52291.73
+3.5,6,PhD,ML Engineer,Tier1,110413.93
+19.9,10,Bachelor,Backend Developer,Tier1,117233.43
+15.5,3,Bachelor,Backend Developer,Tier2,65041.86
+13.3,6,Bachelor,Data Scientist,Tier1,101232.46
+22.3,6,Bachelor,Data Scientist,Tier2,91625.98
+19.7,2,Master,ML Engineer,Tier1,123122.35
+3.8,7,Master,Software Engineer,Tier3,52321.9
+7.8,2,Bachelor,Backend Developer,Tier3,47004.4
+6.2,6,Bachelor,ML Engineer,Tier3,59273.93
+18.6,1,Bachelor,DevOps,Tier1,99339.1
+0.8,3,Bachelor,DevOps,Tier1,47679.76
+14.2,2,Bachelor,ML Engineer,Tier1,95565.51
+19.1,7,Bachelor,Backend Developer,Tier1,95915.72
+21.9,4,Master,ML Engineer,Tier1,150336.4
+8.6,8,PhD,Backend Developer,Tier2,92522.43
+20.5,6,Bachelor,Data Scientist,Tier2,89899.03
+2.8,10,PhD,ML Engineer,Tier3,81793.18
+21.2,4,Bachelor,Backend Developer,Tier1,95439.17
+3.2,5,Bachelor,ML Engineer,Tier1,65799.34
+9.9,9,Bachelor,ML Engineer,Tier1,101159.38
+19.9,7,Master,Backend Developer,Tier3,88258.15
+3.7,10,PhD,Backend Developer,Tier2,90038.69
+5.7,9,Master,Software Engineer,Tier3,67913.67
+18.1,7,Bachelor,ML Engineer,Tier3,94776.62
+18.0,1,Master,DevOps,Tier2,88767.75
+16.0,8,Bachelor,ML Engineer,Tier1,109526.13
+17.3,4,Master,ML Engineer,Tier1,137443.15
+13.6,3,Bachelor,Backend Developer,Tier2,70041.75
+6.3,7,Bachelor,ML Engineer,Tier1,77618.49
+8.6,3,Bachelor,ML Engineer,Tier1,71593.76
+4.5,8,Master,DevOps,Tier3,61207.46
+22.7,6,Bachelor,Backend Developer,Tier3,85770.92
+14.6,5,Master,ML Engineer,Tier2,105668.53
+10.0,4,Bachelor,Data Scientist,Tier2,62670.17
+11.6,8,Master,Software Engineer,Tier2,87778.35
+23.7,8,Master,DevOps,Tier1,147911.86
+3.8,1,Master,ML Engineer,Tier1,70341.18
+14.7,9,Bachelor,Data Scientist,Tier2,91563.11
+12.6,5,Bachelor,ML Engineer,Tier2,84668.5
+15.3,4,Bachelor,ML Engineer,Tier1,96042.12
+0.5,6,Master,Backend Developer,Tier3,51734.52
+21.8,6,Bachelor,Backend Developer,Tier1,100091.77
+23.3,2,Bachelor,Backend Developer,Tier1,96712.9
+14.1,8,Bachelor,Data Scientist,Tier2,80979.83
+17.4,7,Bachelor,ML Engineer,Tier1,104007.35
+23.1,1,Master,Software Engineer,Tier1,114674.29
+17.7,5,Bachelor,DevOps,Tier1,91675.42
+3.8,6,Master,Backend Developer,Tier2,65470.33
+14.4,4,Bachelor,Backend Developer,Tier1,78157.35
+15.2,2,Bachelor,ML Engineer,Tier2,84167.7
+10.6,4,Bachelor,ML Engineer,Tier2,65815.59
+18.4,1,Bachelor,Data Scientist,Tier1,106430.31
+23.4,7,Bachelor,Data Scientist,Tier3,100085.54
+23.1,2,Master,Backend Developer,Tier1,111364.75
+11.3,2,Bachelor,ML Engineer,Tier3,67314.2
+2.8,9,Master,Software Engineer,Tier2,64994.54
+24.6,5,Bachelor,DevOps,Tier3,96121.4
+21.0,2,Bachelor,ML Engineer,Tier1,112629.49
+3.1,9,Master,ML Engineer,Tier1,91676.61
+23.0,9,Bachelor,Data Scientist,Tier1,135314.23
+21.7,1,Bachelor,DevOps,Tier1,100298.18
+13.0,3,Bachelor,Backend Developer,Tier2,59931.05
+14.8,4,Bachelor,ML Engineer,Tier1,104935.99
+10.0,7,Master,Backend Developer,Tier2,77957.58
+1.4,10,Bachelor,ML Engineer,Tier1,71404.44
+8.4,4,Master,Backend Developer,Tier1,74259.14
+20.1,2,Master,DevOps,Tier2,101294.74
+0.1,7,Bachelor,Data Scientist,Tier1,63863.81
+8.3,6,PhD,DevOps,Tier2,92055.24
+10.0,3,Bachelor,Software Engineer,Tier2,58696.07
+13.4,6,PhD,Data Scientist,Tier3,112634.64
+23.0,6,Bachelor,DevOps,Tier1,123329.79
+8.7,5,Master,Software Engineer,Tier2,71270.71
+8.7,4,Bachelor,ML Engineer,Tier3,59072.35
+18.4,10,Bachelor,ML Engineer,Tier2,112537.98
+11.3,1,Master,Backend Developer,Tier1,87386.07
+5.6,10,Master,Data Scientist,Tier2,75384.64
+11.3,6,Bachelor,ML Engineer,Tier2,71205.83
+3.5,2,Bachelor,Data Scientist,Tier2,48240.76
+4.4,3,Master,ML Engineer,Tier1,73331.51
+12.5,8,Master,Backend Developer,Tier1,99377.3
+10.5,10,PhD,DevOps,Tier3,111802.22
+22.9,6,Master,Backend Developer,Tier1,121428.9
+9.1,3,PhD,Software Engineer,Tier2,90700.4
+14.5,7,Master,ML Engineer,Tier1,118976.07
+15.8,4,Bachelor,Software Engineer,Tier2,78231.6
+0.3,9,Bachelor,Software Engineer,Tier1,59880.17
+16.6,5,Master,Data Scientist,Tier1,109368.44
+4.5,3,Master,ML Engineer,Tier3,60139.68
+24.0,2,Bachelor,Software Engineer,Tier3,75156.98
+3.7,2,Bachelor,DevOps,Tier2,50079.78
+10.4,3,PhD,Software Engineer,Tier1,115848.99
+2.1,2,Bachelor,DevOps,Tier2,42264.33
+24.9,4,Bachelor,Data Scientist,Tier2,102663.45
+12.6,2,Bachelor,Software Engineer,Tier2,61501.23
+14.9,10,Bachelor,Backend Developer,Tier1,101452.56
+1.7,9,Bachelor,Data Scientist,Tier2,55144.83
+18.7,2,Bachelor,DevOps,Tier2,77535.75
+5.2,9,Bachelor,Data Scientist,Tier3,58486.4
+22.5,6,Master,Software Engineer,Tier1,120333.7
+5.1,1,Bachelor,ML Engineer,Tier2,55352.19
+4.8,4,Master,ML Engineer,Tier2,62473.11
+0.9,1,Master,DevOps,Tier1,56121.6
+11.8,6,Bachelor,DevOps,Tier1,80029.22
+14.1,4,Master,ML Engineer,Tier1,109010.74
+1.6,3,Bachelor,DevOps,Tier1,52856.44
+19.4,3,Master,Data Scientist,Tier1,138183.56
+11.3,9,Bachelor,Backend Developer,Tier2,76748.57
+13.1,6,Master,Backend Developer,Tier2,81344.93
+11.0,9,Master,Data Scientist,Tier2,88943.6
+10.0,5,Bachelor,Backend Developer,Tier3,61711.68
+14.0,2,Bachelor,Software Engineer,Tier1,78414.76
+3.9,8,Master,Data Scientist,Tier1,79253.54
+4.5,5,Master,DevOps,Tier2,69117.83
+21.5,2,Bachelor,Data Scientist,Tier1,115550.58
+23.7,4,Master,ML Engineer,Tier1,164099.98
+9.3,9,Bachelor,DevOps,Tier1,91713.01
+6.8,4,Master,ML Engineer,Tier1,95243.03
+16.1,4,Bachelor,DevOps,Tier3,65201.97
+10.2,2,Master,Backend Developer,Tier1,76713.24
+0.6,6,Bachelor,Data Scientist,Tier1,58279.11
+3.9,2,Bachelor,Software Engineer,Tier1,53373.93
+17.9,7,Bachelor,DevOps,Tier2,87385.59
+16.5,3,Bachelor,DevOps,Tier1,90235.59
+0.7,3,Bachelor,ML Engineer,Tier2,44788.71
+5.5,5,Bachelor,Backend Developer,Tier1,63923.85
+5.8,3,Master,ML Engineer,Tier1,74467.41
+16.8,2,Bachelor,ML Engineer,Tier2,80216.99
+0.5,10,Bachelor,Backend Developer,Tier1,60018.63
+2.6,9,Bachelor,Software Engineer,Tier1,66123.7
+20.0,2,Bachelor,ML Engineer,Tier1,102022.82
+4.5,2,Bachelor,ML Engineer,Tier3,48752.87
+16.3,8,Bachelor,DevOps,Tier1,106196.64
+6.0,9,Bachelor,Backend Developer,Tier2,60373.9
+2.5,7,Bachelor,Data Scientist,Tier1,58910.91
+6.1,3,Bachelor,Software Engineer,Tier1,60094.01
+18.1,9,Bachelor,Software Engineer,Tier1,99391.93
+21.4,3,Bachelor,Backend Developer,Tier3,83942.38
+20.8,5,Bachelor,DevOps,Tier1,99865.29
+9.9,9,PhD,DevOps,Tier1,133559.13
+16.7,3,Bachelor,Backend Developer,Tier1,80373.71
+5.1,7,Master,DevOps,Tier1,82152.53
+7.3,1,Bachelor,Software Engineer,Tier1,60577.0
+22.4,4,Master,Software Engineer,Tier2,102346.14
+0.3,4,Master,Data Scientist,Tier1,62241.3
+2.1,7,Bachelor,Backend Developer,Tier1,54199.82
+5.2,8,PhD,ML Engineer,Tier2,95533.85
+0.7,1,Bachelor,ML Engineer,Tier1,50376.84
+4.5,5,Bachelor,Data Scientist,Tier1,63859.14
+14.6,7,Master,Data Scientist,Tier1,129167.47
+10.5,4,Master,DevOps,Tier2,81030.88
+22.3,4,Bachelor,Data Scientist,Tier1,113843.76
+20.4,4,Bachelor,Data Scientist,Tier1,99692.89
+8.5,6,Bachelor,ML Engineer,Tier1,83712.44
+6.5,7,Bachelor,DevOps,Tier2,65064.74
+9.5,2,Master,Data Scientist,Tier1,85048.05
+14.8,5,Bachelor,Data Scientist,Tier2,86172.45
+6.7,4,Bachelor,DevOps,Tier3,49295.24
+15.6,3,Bachelor,Backend Developer,Tier2,76949.43
+10.2,7,Bachelor,DevOps,Tier1,76233.3
+13.8,6,Bachelor,ML Engineer,Tier1,106858.96
+10.9,7,Master,Backend Developer,Tier1,97172.19
+7.4,5,PhD,Software Engineer,Tier1,97834.98
+23.7,6,Master,DevOps,Tier1,134874.82
+19.1,5,Bachelor,ML Engineer,Tier2,94458.36
+3.5,7,Master,Backend Developer,Tier1,81495.91
+21.7,2,Master,DevOps,Tier1,118143.38
+12.2,5,Master,Data Scientist,Tier2,82746.32
+22.4,6,Bachelor,DevOps,Tier2,98435.09
+20.0,6,Bachelor,Software Engineer,Tier1,102464.66
+10.6,5,Bachelor,DevOps,Tier3,61933.27
+0.6,10,Bachelor,Backend Developer,Tier1,62065.23
+6.7,7,Bachelor,Backend Developer,Tier2,56528.79
+13.5,10,Bachelor,DevOps,Tier2,89990.18
+15.8,8,Bachelor,Backend Developer,Tier2,79918.4
+6.4,7,Master,Data Scientist,Tier2,71650.48
+3.5,5,Bachelor,DevOps,Tier1,63686.07
+20.9,1,Bachelor,Data Scientist,Tier1,107819.01
+24.6,5,PhD,Data Scientist,Tier2,151561.56
+13.1,10,PhD,ML Engineer,Tier1,163546.48
+4.3,2,Master,DevOps,Tier3,49479.26
+6.8,5,PhD,Backend Developer,Tier1,98545.7
+0.5,5,Bachelor,Data Scientist,Tier1,59452.93
+22.9,2,PhD,ML Engineer,Tier1,163757.44
+2.9,5,Bachelor,DevOps,Tier1,57765.15
+14.4,4,Bachelor,DevOps,Tier2,79651.12
+6.9,1,Bachelor,Software Engineer,Tier2,54508.95
+13.9,3,Bachelor,Software Engineer,Tier2,67898.51
+16.3,1,Bachelor,Data Scientist,Tier3,70608.71
+20.7,5,Master,Software Engineer,Tier3,96046.65
+5.2,4,Master,Data Scientist,Tier3,66544.09
+0.3,7,Bachelor,Backend Developer,Tier1,57257.8
+3.4,5,Bachelor,Data Scientist,Tier2,50071.65
+22.5,10,Master,Software Engineer,Tier1,138624.16
+21.8,4,Master,Backend Developer,Tier1,123281.94
+14.9,2,Bachelor,Software Engineer,Tier2,73074.15
+15.0,4,Master,Data Scientist,Tier1,115586.65
+16.6,2,Bachelor,ML Engineer,Tier1,102021.61
+4.4,8,Bachelor,DevOps,Tier1,76251.24
+22.9,3,PhD,Software Engineer,Tier1,143274.02
+10.5,9,Bachelor,Data Scientist,Tier3,67019.51
+9.6,4,Bachelor,Backend Developer,Tier1,70438.12
+13.0,6,Master,Software Engineer,Tier1,98313.03
+1.2,10,Master,Software Engineer,Tier1,66869.71
+4.2,5,Bachelor,DevOps,Tier1,57538.19
+18.5,10,Bachelor,Data Scientist,Tier3,93464.4
+2.1,1,Bachelor,ML Engineer,Tier1,57420.52
+15.1,9,Master,Backend Developer,Tier2,97560.81
+6.1,1,Bachelor,Data Scientist,Tier2,53291.46
+9.7,8,Bachelor,Backend Developer,Tier3,58392.55
+7.2,9,PhD,Software Engineer,Tier2,100653.31
+8.9,9,Bachelor,DevOps,Tier3,67606.35
+18.0,1,Bachelor,DevOps,Tier1,93765.86
+7.4,2,Bachelor,ML Engineer,Tier1,67354.34
+14.2,1,Master,DevOps,Tier1,90208.39
+11.9,10,Bachelor,Software Engineer,Tier3,62803.92
+16.6,2,Bachelor,ML Engineer,Tier1,100803.81
+23.4,10,Master,Data Scientist,Tier1,167769.28
+18.3,8,Bachelor,DevOps,Tier1,114977.98
+5.4,5,Bachelor,ML Engineer,Tier1,71683.14
+0.8,7,Bachelor,Software Engineer,Tier1,57841.63
+6.6,2,Bachelor,Backend Developer,Tier3,50329.17
+14.9,8,Bachelor,Backend Developer,Tier1,89142.88
+1.3,6,Bachelor,Software Engineer,Tier2,44826.13
+12.4,8,Bachelor,Software Engineer,Tier2,79821.02
+14.9,1,Bachelor,Backend Developer,Tier1,77111.73
+8.4,1,Master,ML Engineer,Tier1,93822.69
+19.3,7,PhD,Backend Developer,Tier1,169084.75
+2.7,8,Master,Software Engineer,Tier1,76336.99
+1.9,3,Master,DevOps,Tier2,56448.15
+18.2,5,Bachelor,Data Scientist,Tier1,110951.25
+12.4,1,PhD,DevOps,Tier1,119874.48
+17.2,7,Bachelor,DevOps,Tier2,83169.04
+10.9,5,PhD,Software Engineer,Tier3,81070.71
+6.2,8,PhD,Backend Developer,Tier3,79038.6
+20.5,8,Master,ML Engineer,Tier3,118364.17
+20.0,9,PhD,DevOps,Tier2,133163.83
+17.4,7,Bachelor,Backend Developer,Tier1,88334.33
+6.8,1,Bachelor,ML Engineer,Tier2,52940.28
+14.8,3,Bachelor,DevOps,Tier1,91271.73
+9.0,8,Bachelor,ML Engineer,Tier2,83077.01
+2.3,3,Bachelor,Backend Developer,Tier2,47165.32
+22.9,8,Master,Data Scientist,Tier1,150483.37
+3.4,1,PhD,Backend Developer,Tier2,67863.24
+23.8,5,Bachelor,Software Engineer,Tier3,89130.79
+11.2,4,Master,ML Engineer,Tier1,104791.4
